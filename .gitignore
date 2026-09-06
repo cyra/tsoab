@@ -1,0 +1,31 @@
+# Local narration and planning
+/script.md
+/speakernotes.txt
+/NOTES.txt
+/HANDOFF.md
+/TONE.md
+/private/
+
+# Environments, caches and editor state
+.venv/
+__pycache__/
+*.py[cod]
+__marimo__/
+.playwright-mcp/
+.claude/
+.codex/
+.agents/
+.DS_Store
+.env
+.env.*
+
+# Render intermediates and private exports
+/media/
+/slides/
+/out*.html
+/out*.pptx
+/preview.html
+/assets/demos/doppler.mp4
+/assets/demos/lightstick.mp4
+
+# docs/ is the public, committed GitHub Pages site.

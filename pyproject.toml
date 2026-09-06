@@ -1,0 +1,10 @@
+[project]
+name = "tsoab"
+version = "0.1.0"
+description = "Tiny Snakes on a Board: a Python WA talk about MicroPython and ESP32 experiments"
+requires-python = ">=3.13"
+dependencies = [
+    "manim-slides[pyside6]>=5.6.0",
+    "manim[typst]>=0.21.0",
+    "marimo>=0.24.0",
+]
