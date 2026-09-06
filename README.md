@@ -4,7 +4,7 @@ a micropython speedrun through a few projects i'd been meaning to try, with what
 
 [open the slides](https://cyra.github.io/tsoab/)
 
-[companion post](https://cyra.locs.in/notes/tsoab) (draft, not published yet).
+[companion post](https://cyra.locs.in/notes/tsoab)
 
 everything is still a wip. source code for all the projects will be released
 shortly. i'll update this readme as i go.
